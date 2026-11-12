@@ -1,0 +1,62 @@
+[
+  {
+    "lang": "python",
+    "input": "expr_100k.txt",
+    "tokens": 100003,
+    "avg_ms": 65.967,
+    "min_ms": 61.423,
+    "max_ms": 68.199,
+    "result": "127760.3334",
+    "peak_mb": 44.2
+  },
+  {
+    "lang": "go",
+    "input": "expr_100k.txt",
+    "tokens": 100003,
+    "avg_ms": 3.489,
+    "min_ms": 2.907,
+    "max_ms": 4.463,
+    "result": "127760.3334",
+    "peak_mb": 21.7
+  },
+  {
+    "lang": "c",
+    "input": "expr_100k.txt",
+    "tokens": 100003,
+    "avg_ms": 2.508,
+    "min_ms": 2.211,
+    "max_ms": 3.419,
+    "result": "127760.3334",
+    "peak_mb": 10.3
+  },
+  {
+    "lang": "python",
+    "input": "expr_1m.txt",
+    "tokens": 1000006,
+    "avg_ms": 1020.343,
+    "min_ms": 668.858,
+    "max_ms": 1293.964,
+    "result": "-2639183.417",
+    "peak_mb": 300.8
+  },
+  {
+    "lang": "go",
+    "input": "expr_1m.txt",
+    "tokens": 1000006,
+    "avg_ms": 29.187,
+    "min_ms": 27.612,
+    "max_ms": 31.095,
+    "result": "-2639183.417",
+    "peak_mb": 79.8
+  },
+  {
+    "lang": "c",
+    "input": "expr_1m.txt",
+    "tokens": 1000006,
+    "avg_ms": 24.023,
+    "min_ms": 23.086,
+    "max_ms": 26.004,
+    "result": "-2639183.417",
+    "peak_mb": 52.2
+  }
+]

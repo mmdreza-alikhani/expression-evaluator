@@ -1,0 +1,6 @@
+bin/
+bench/data/
+*.obj
+*.pdb
+*.ilk
+__pycache__/
